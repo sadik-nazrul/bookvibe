@@ -4,14 +4,11 @@
       "bookName": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "image": "https://i.ibb.co/WvWpNr5/To-Kill-a-Mockingbird.jpg",
-      "reviews": [
-        "A gripping, heart-wrenching, and wholly remarkable tale.",
-        "A timeless classic that everyone should read."
-      ],
+      "review": "A gripping, heart-wrenching, and wholly remarkable tale.",
       "totalPages": 281,
       "rating": 4.8,
       "category": "Fiction",
-      "tags": ["Classic", "Historical"],
+      "tags": ["#Classic", "#Historical"],
       "publisher": "J.B. Lippincott & Co.",
       "yearOfPublishing": 1960
     },
@@ -20,14 +17,11 @@
       "bookName": "1984",
       "author": "George Orwell",
       "image": "https://i.ibb.co/20rDG80/1984.jpg",
-      "reviews": [
-        "A dystopian masterpiece.",
-        "Chilling and relevant even today."
-      ],
+      "review": "A dystopian masterpiece.",
       "totalPages": 328,
       "rating": 4.7,
       "category": "Science Fiction",
-      "tags": ["Dystopia", "Political Fiction"],
+      "tags": ["#Dystopia", "#Political Fiction"],
       "publisher": "Secker & Warburg",
       "yearOfPublishing": 1949
     },
@@ -36,14 +30,11 @@
       "bookName": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "image": "https://i.ibb.co/4FW7Dmk/The-Great-Gatsby.png",
-      "reviews": [
-        "A tragic love story set in the Roaring Twenties.",
-        "Beautifully written and haunting."
-      ],
+      "review": "A tragic love story set in the Roaring Twenties.",
       "totalPages": 180,
       "rating": 4.5,
       "category": "Fiction",
-      "tags": ["Classic", "Romance"],
+      "tags": ["#Classic", "#Romance"],
       "publisher": "Charles Scribner's Sons",
       "yearOfPublishing": 1925
     },
@@ -52,14 +43,11 @@
       "bookName": "Pride and Prejudice",
       "author": "Jane Austen",
       "image": "https://i.ibb.co/yqJbMhp/Pride-and-Prejudice.webp",
-      "reviews": [
-        "A timeless romance.",
-        "Witty, elegant, and engaging."
-      ],
+      "review": "A timeless romance.",
       "totalPages": 279,
       "rating": 4.6,
       "category": "Romance",
-      "tags": ["Classic", "Romance"],
+      "tags": ["#Classic", "#Romance"],
       "publisher": "T. Egerton, Whitehall",
       "yearOfPublishing": 1813
     },
@@ -68,14 +56,11 @@
       "bookName": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "image": "https://i.ibb.co/m6RY29h/The-Catcher-in-the-Rye.jpg",
-      "reviews": [
-        "A novel about teenage rebellion.",
-        "Controversial yet influential."
-      ],
+      "review": "A novel about teenage rebellion.",
       "totalPages": 214,
       "rating": 4.3,
       "category": "Fiction",
-      "tags": ["Classic", "Coming-of-Age"],
+      "tags": ["#Classic", "#Coming-of-Age"],
       "publisher": "Little, Brown and Company",
       "yearOfPublishing": 1951
     },
@@ -84,14 +69,11 @@
       "bookName": "Moby-Dick",
       "author": "Herman Melville",
       "image": "https://i.ibb.co/xLK8hw2/Moby-Dick.jpg",
-      "reviews": [
-        "An epic tale of the sea.",
-        "Complex and richly symbolic."
-      ],
+      "review": "An epic tale of the sea.",
       "totalPages": 635,
       "rating": 4.2,
       "category": "Adventure",
-      "tags": ["Classic", "Adventure"],
+      "tags": ["#Classic", "#Adventure"],
       "publisher": "Harper & Brothers",
       "yearOfPublishing": 1851
     }
