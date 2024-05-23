@@ -1,6 +1,6 @@
 [
     {
-      "bookId": "1",
+      "bookId": 1,
       "bookName": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "image": "https://i.ibb.co/WvWpNr5/To-Kill-a-Mockingbird.jpg",
@@ -13,7 +13,7 @@
       "yearOfPublishing": 1960
     },
     {
-      "bookId": "2",
+      "bookId": 2,
       "bookName": "1984",
       "author": "George Orwell",
       "image": "https://i.ibb.co/20rDG80/1984.jpg",
@@ -26,7 +26,7 @@
       "yearOfPublishing": 1949
     },
     {
-      "bookId": "3",
+      "bookId": 3,
       "bookName": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "image": "https://i.ibb.co/4FW7Dmk/The-Great-Gatsby.png",
@@ -39,7 +39,7 @@
       "yearOfPublishing": 1925
     },
     {
-      "bookId": "4",
+      "bookId": 4,
       "bookName": "Pride and Prejudice",
       "author": "Jane Austen",
       "image": "https://i.ibb.co/yqJbMhp/Pride-and-Prejudice.webp",
@@ -52,7 +52,7 @@
       "yearOfPublishing": 1813
     },
     {
-      "bookId": "5",
+      "bookId": 5,
       "bookName": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "image": "https://i.ibb.co/m6RY29h/The-Catcher-in-the-Rye.jpg",
@@ -65,7 +65,7 @@
       "yearOfPublishing": 1951
     },
     {
-      "bookId": "6",
+      "bookId": 6,
       "bookName": "Moby-Dick",
       "author": "Herman Melville",
       "image": "https://i.ibb.co/xLK8hw2/Moby-Dick.jpg",
