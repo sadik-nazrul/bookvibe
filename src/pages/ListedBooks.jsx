@@ -8,7 +8,7 @@ const ListedBooks = () => {
 
     return (
         <div className='container mx-auto'>
-            <div className="h-40 bg-slate-200 flex justify-center items-center m-5 lg:m-0 rounded-xl">
+            <div className="h-40 bg-slate-200 flex justify-center items-center m-5 lg:m-0 rounded-xl lg:mb-4">
                 <h2 className="text-xl lg:text-3xl font-semibold">Listed Books</h2>
             </div>
 

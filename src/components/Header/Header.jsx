@@ -36,7 +36,7 @@ const Header = () => {
                     ? "pending"
                     : ""
         }>Listed Books</NavLink></li>
-        <li><NavLink to='/pagetoread' className={({ isActive, isPending }) =>
+        <li><NavLink to='/pagestoread' className={({ isActive, isPending }) =>
             isActive
                 ? `px-5 py-2 rounded bg-lime-500 text-white font-semibold`
                 : isPending
