@@ -1,5 +1,6 @@
 # Novely (a book reading website with dynamic routing)
 
+- [@livesite](https://novelvibe.netlify.app) - live site 1 if it's not working visit this (http://novelvibe.sadiknazrul.com/)
 
 - [@reactrouterdom](https://reactrouter.com/en/main) using for routing
 - [@reactIcon](https://react-icons.github.io/react-icons/) using for icons
