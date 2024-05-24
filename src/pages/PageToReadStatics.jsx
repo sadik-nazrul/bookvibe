@@ -29,7 +29,6 @@ const PageToReadStatics = () => {
     
     useEffect(() => {
         const storedReadWishBooks = getStoredReadWhishlistData();
-        // console.log(storedReadWishBooks.read);
         if (books.length > 0) {
             const readBook = books.filter(book => storedReadWishBooks.read.includes(book.bookId));
             setDisplayReadBooks(readBook);
