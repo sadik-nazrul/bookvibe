@@ -1,0 +1,26 @@
+[
+    {
+        "authorName": "George Orwell",
+        "image": "https://www.neh.gov/sites/default/files/styles/large/public/2019-01/2019_01-Winter_Orwell_01_0.jpg?itok=sN7QYAHi"
+    },
+    {
+        "authorName": "F. Scott Fitzgerald",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERHSoPYvO0Y1e_hbNDqrehmSwB4rZWhoyVhBXWeFeTQ&s"
+    },
+    {
+        "authorName": "Jane Austen",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9PpNISXhS83n0DW2LH-LVwhPitBeGSUGWi6As-IXZQ&s"
+    },
+    {
+        "authorName": "J.D. Salinger",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/3c27703/2147483647/strip/false/crop/333x450+0+0/resize/333x450!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fe4%2Ff9e8a2b204ca509abcd92a4709ab%2Fla-jd-salinger1-kwyzbanc"
+    },
+    {
+        "authorName": "Harper Lee",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEYVV0hoelRC-45ZikkWQqS3vlPeEvB1PJ-pUOdjbXA&s"
+    },
+    {
+        "authorName": "Herman Melville",
+        "image": "https://media.newyorker.com/photos/5d31d7fbbb731c000867b9de/master/pass/190729_r34696_rd.jpg"
+    }
+]

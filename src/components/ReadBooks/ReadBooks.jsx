@@ -9,20 +9,6 @@ const ReadBooks = () => {
     const [readList, setReadList] = useState([]);
     const [displayReadBooks, setDisplayReadBooks] = useState([])
 
-    // const handleBooksFilter = filter => {
-    //     if (filter === 'rating') {
-    //         const ratingBook = readList.filter(readBook => readBook.rating >= 4.5);
-    //         setDisplayReadBooks(ratingBook);
-    //     }
-    //     else if (filter === 'pageNumber') {
-    //         const pageNumBooks = readList.filter(readBook => readBook.totalPages >= 200);
-    //         setDisplayReadBooks(pageNumBooks);
-    //     }
-    //     else if (filter === 'publishy') {
-    //         const publishyBooks = readList.filter(readBook => readBook.yearOfPublishing >= 1900);
-    //         setDisplayReadBooks(publishyBooks);
-    //     }
-    // }
 
 
     const handleBookSort = (sorted) => {
@@ -40,7 +26,6 @@ const ReadBooks = () => {
 
     useEffect(() => {
         const storedReadWishBooks = getStoredReadWhishlistData();
-        // console.log(storedReadWishBooks.read);
         if (books.length > 0) {
             const readBook = books.filter(book => storedReadWishBooks.read.includes(book.bookId));
             setReadList(readBook)
@@ -50,7 +35,7 @@ const ReadBooks = () => {
 
     return (
         <div>
-            <div className="text-right">
+            <div className="lg:text-right">
                 <details className="dropdown">
                     <summary className="m-1 btn">Sort By<IoIosArrowDown></IoIosArrowDown></summary>
                     <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">

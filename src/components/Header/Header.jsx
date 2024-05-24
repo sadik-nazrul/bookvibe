@@ -43,13 +43,13 @@ const Header = () => {
                     ? "pending"
                     : ""
         }>Page to Read</NavLink></li>
-        <li><NavLink to='/blogs' className={({ isActive, isPending }) =>
+        <li><NavLink to='/aboutus' className={({ isActive, isPending }) =>
             isActive
                 ? `px-5 py-2 rounded bg-lime-500 text-white font-semibold`
                 : isPending
                     ? "pending"
                     : ""
-        }>Blogs</NavLink></li>
+        }>About Us</NavLink></li>
         <li><NavLink to='/contact' className={({ isActive, isPending }) =>
             isActive
                 ? `px-5 py-3 rounded bg-lime-500 text-white font-semibold`

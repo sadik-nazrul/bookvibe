@@ -24,7 +24,6 @@ const WishList = () => {
 
     useEffect(() => {
         const storedReadWishBooks = getStoredReadWhishlistData();
-        // console.log(storedReadWishBooks.read);
         if (books.length > 0) {
             const wishBook = books.filter(book => storedReadWishBooks.wish.includes(book.bookId));
             setWishList(wishBook)
@@ -35,8 +34,8 @@ const WishList = () => {
 
     return (
 
-        <div>
-            <div className="text-right">
+        <div className='pl-5'>
+            <div className="lg:text-right">
                 <details className="dropdown">
                     <summary className="m-1 btn">Sort By<IoIosArrowDown></IoIosArrowDown></summary>
                     <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
