@@ -48,7 +48,7 @@ const ContactUs = () => {
                             <span className="mb-1">Message</span>
                             <textarea rows="3" className="block w-full rounded-md focus:ring focus:ring-opacity-75 focus:dark:ring-violet-600 dark:bg-gray-100"></textarea>
                         </label>
-                        <button type="button" className="px-8 py-3 text-lg rounded focus:ring hover:ring focus:ring-opacity-75 dark:bg-violet-600 dark:text-gray-50 focus:dark:ring-violet-600 hover:dark:ring-violet-600">Submit</button>
+                        <a className="px-5 py-2 rounded bg-lime-500 text-white hidden lg:block text-center">Submit</a>
                     </form>
                 </div>
             </section>
