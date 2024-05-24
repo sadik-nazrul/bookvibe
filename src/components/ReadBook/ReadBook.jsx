@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 
 const ReadBook = ({ readBook }) => {
-    // console.log(readBook);
+    
     const { bookId, image, bookName, author, category, tags, totalPages, publisher, yearOfPublishing, rating } = readBook;
     return (
         <div className='grid lg:grid-cols-6 gap-5 p-4 rounded-lg border'>
