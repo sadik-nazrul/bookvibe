@@ -17,7 +17,7 @@ const ReadBooks = () => {
     }, [books])
 
     return (
-        <div className=' space-y-4 py-10'>
+        <div className='space-y-4 lg:py-10 py-5 px-5 lg:px-0'>
             {
                 displayReadBooks.map((readbook, indx) => <ReadBook key={indx} readBook={readbook}></ReadBook>)
             }
